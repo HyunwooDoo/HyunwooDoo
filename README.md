@@ -9,13 +9,13 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### ✨ Front-End Engineer from South Korea<br/>
+  #### 💫 Front-End Engineer from South Korea<br/>
   #### :fire: Aim to become a UX Engineer<br/>
   #### :mortar_board: Major of Computer Science, Myongji University(MJU)
 
   <br/>
 
-  ## 💼 Experiences
+  ## ✨ Experiences
   #### 💻 대학생을 위한 커리어 기록 서비스 'Folioo' (25.08.~)
   #### 💻 9th UMC Web (25.09.~)
   #### 🏆 8th UMC DEMO DAY 최우수상 (25.08.)
