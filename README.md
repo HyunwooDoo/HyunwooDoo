@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white&Color=black"/>
   <img src="https://img.shields.io/badge/Zod-408AFF?style=flat-square&logo=Zod&logoColor=white&Color=black"/>
-  <img src="https://img.shields.io/badge/Zustand-408AFF?style=flat-square&logo=Zustand&logoColor=white&Color=black"/>
   <br/>
   
   ### ETC
