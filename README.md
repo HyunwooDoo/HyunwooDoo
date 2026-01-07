@@ -31,24 +31,29 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-4479A1?style=flat-square&logo=CSS&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <br/>
   
   
-  
+
   ### Framework
   <!--Next.js-->
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <!--TailwindCSS-->
   <img src="https://img.shields.io/badge/TailwindCSS-1572B6?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandacss-F7DF1E?style=flat-square&logo=foodpanda&logoColor=black"/>
   <br/>
   
   ### Library
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black&Color=white"/>
   <img src="https://img.shields.io/badge/Headless UI-F39EB6?style=flat-square&logo=HeadlessUI&logoColor=black&Color=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white&Color=black"/>
+  <img src="https://img.shields.io/badge/Zod-408AFF?style=flat-square&logo=Zod&logoColor=white&Color=black"/>
+  
   <br/>
   
   ### ETC
