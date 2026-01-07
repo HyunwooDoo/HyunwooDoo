@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <!--TailwindCSS-->
   <img src="https://img.shields.io/badge/TailwindCSS-1572B6?style=flat-square&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandacss-F7DF1E?style=flat-square&logo=foodpanda&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PandaCSS-F7DF1E?style=flat-square&logo=foodpanda&logoColor=black"/>
   <br/>
   
   ### Library
