@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white&Color=black"/>
   <img src="https://img.shields.io/badge/Zod-408AFF?style=flat-square&logo=Zod&logoColor=white&Color=black"/>
-  
+  <img src="https://img.shields.io/badge/Zustand-408AFF?style=flat-square&logo=Zustand&logoColor=white&Color=black"/>
   <br/>
   
   ### ETC
@@ -65,7 +65,8 @@
   <img src="https://img.shields.io/badge/Notion-999999?style=flat-square&logo=notion&logoColor=black"/>
   <!--Figma-->
   <img src="https://img.shields.io/badge/Figma-4A154B?style=flat-square&logo=Figma&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
   <br/>
   <br/>
   
