@@ -61,12 +61,13 @@
   <img src="https://img.shields.io/badge/Git-333333?style=flat-square&logo=Git&logoColor=red"/>
   <!--Vercel-->
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-999999?style=flat-square&logo=notion&logoColor=black"/>
   <!--Figma-->
   <img src="https://img.shields.io/badge/Figma-4A154B?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
   <br/>
   <br/>
   
