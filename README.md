@@ -18,7 +18,7 @@
   ## ✨ Experiences
   #### 💻 대학생을 위한 커리어 기록 서비스 'Folioo' (25.08.~)
   #### 💻 9th UMC Web (25.09.~26.02.)
-  #### 🏆 8th UMC DEMO DAY 최우수상 (25.08.)
+  #### 🏆 8th UMC DEMO DAY 2nd Prize (25.08.)
   #### 📚 대학생 맞춤형 협업툴 'Teamie' (25.06.~25.08.)
   #### 📚 8th UMC Web (25.03.~25.08.)
 
