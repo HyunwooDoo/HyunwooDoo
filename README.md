@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### 💫 Front-End Engineer from South Korea<br/>
   #### :fire: Aim to become a UX Engineer<br/>
-  #### :mortar_board: Major of Computer Science, Myongji University(MJU)
+  #### :mortar_board: Major of Computer Science, MyongJi University(MJU)
 
   <br/>
 
