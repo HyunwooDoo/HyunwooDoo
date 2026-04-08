@@ -16,6 +16,7 @@
   <br/>
 
   ## ✨ Experiences
+  https://www.folioo.ai.kr/
   #### 💻 대학생을 위한 커리어 기록 서비스 'Folioo' (25.08.~)
   #### 💻 9th UMC Web (25.09.~26.02.)
   #### 🏆 8th UMC DEMO DAY 2nd Prize (25.08.)
