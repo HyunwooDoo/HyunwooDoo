@@ -17,7 +17,7 @@
 
   ## ✨ Experiences
   
-  #### 🏆 MJU 2026 1st half Capstone Design Honorable Mention (26.06.)
+  #### 🏆 MJU 2026 1st half Capstone Design Encouragement Prize (26.06.)
   #### 💻 [대학생을 위한 커리어 기록 서비스 'Folioo'](http://www.folioo.ai.kr/) (25.08.~)
   #### 📚 9th UMC Web (25.09.~26.02.)
   #### 🏆 8th UMC DEMO DAY 2nd Prize (25.08.)
